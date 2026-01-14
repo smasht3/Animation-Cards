@@ -1,0 +1,18 @@
+# Everything that deals with VS Code stuff
+.vscode
+.config
+
+# Vim stuff i guess
+*.vim
+.luarc.json
+.emmyrc.json
+
+# Zed editor stuff i guess
+.zed
+
+# Definitions for Balatro functions
+.balatro-lsp
+.lovelyignore
+
+# Debug
+debug.lua

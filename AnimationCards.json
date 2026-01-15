@@ -1,0 +1,17 @@
+{
+    "id": "AnimationCards",
+    "name": "AnimationCards",
+    "author": [
+        "Hoja",
+        "ThunderEdge73"
+    ],
+    "description": "Adds animation to playing cards",
+    "prefix": "anc",
+    "main_file": "AnimationCards.lua",
+    "priority": 0,
+    "badge_colour": "69fa61",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-1224a)"
+    ]
+}
